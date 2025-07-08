@@ -23,4 +23,6 @@ Obsevações importantes:
   2. A primeira coluna do arquivo .CSV deve conter os valores de "nomes dos(as) autores(as)".
   3. A segunda coluna do arquivo .CSV deve conter os valores de "títulos de apresentação".  
 
+Executáveis para Windows estão disponíveis para download. Infelizmente, o GitHub não aceita o tamanho dos executáveis para Linux.
+
 Bom uso!
