@@ -21,6 +21,6 @@ Instruções para identificar o nome da caixa de texto no Power Point:
 Obsevações importantes:
   1. O script apenas aceita templates em formato .PPTX!
   2. A primeira coluna do arquivo .CSV deve conter os valores de "nomes dos(as) autores(as)".
-  3. A segunda cluna do arquivo .CSV deve conter os valores de "títulos de apresentação".  
+  3. A segunda coluna do arquivo .CSV deve conter os valores de "títulos de apresentação".  
 
 Bom uso!
