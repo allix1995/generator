@@ -9,7 +9,7 @@ Há três códigos:
 
 Antes de compilar em seu computador, verifique se todas bibliotecas estão instaladas (libreoffice, comtypes, tkinter, customtkinter, entre outras...)
 
-As listas de caixas de textos são usadas para identificar os objetos que serão substituídos no templetate do certificado. 
+As listas de caixas de textos são usadas para identificar os objetos que serão substituídos no template do certificado. 
 
 Instruções para identificar o nome da caixa de texto no Power Point:
   1. Abra o arquivo .pptx desejado.
