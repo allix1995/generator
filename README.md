@@ -7,7 +7,7 @@ Há três códigos:
   2. "GeradorCertChooseFont" permite modificações no nome, tamanho e cor da fonte.
   3. "GeradorCertScroll" Adiciona a função de utilizar o scroll na interface gráfica (caso algum botão no canto inferior não estiver aparecendo na sua tela).
 
-Antes de compilar em seu computador, verifique se todas bibliotecas estão instaladas (libreoffice, comtypes, tkinter, customtkinter, entre outras...)
+Antes de compilar em seu computador, verifique se todas bibliotecas (ou aplicativos) estão instaladas (libreoffice, comtypes, tkinter, customtkinter, PowerPoint, entre outras...)
 
 As listas de caixas de textos são usadas para identificar os objetos que serão substituídos no template do certificado. 
 
