@@ -2,6 +2,11 @@ Olá! Este é um Gerador de Certificados.
 
 Selecione o código .py desejado: for Linux ou for Win (Windows).
 
+Há três códigos:
+  1. Um mais básico, que não permite o usuário modificar o nome, tamanho e cor da fonte. Estes parâmetros são enviados via código.
+  2. "ChooseFont" permite modificações no nome, tamanho e cor da fonte.
+  3. "Scroll" Habilita a função de utilizar o scroll na interface gráfica (caso algum botão no canto inferior não estiver aparecendo na sua tela).
+
 Antes de compilar em seu computador, verifique se todas bibliotecas estão instaladas (libreoffice, comtypes, tkinter, customtkinter, entre outras...)
 
 As listas de caixas de textos são usadas para identificar os objetos que serão substituídos no templetate do certificado. 
