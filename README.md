@@ -19,8 +19,8 @@ Instruções para identificar o nome da caixa de texto no Power Point:
   5. Copie o nome da caixa de texto e insira-o na lista de texto correspondente (se desejas colocar um nome na caixa, na lista à esquerda. Se desejas colocar o título da apresentação, na lista à direita).
 
 Obsevações importantes:
-  O script apenas aceita templates em formato .PPTX!
-  A primeira coluna do arquivo .CSV deve conter os valores de "nomes dos(as) autores(as)".
-  A segunda cluna do arquivo .CSV deve conter os valores de "títulos de apresentação".
+  1. O script apenas aceita templates em formato .PPTX!
+  2. A primeira coluna do arquivo .CSV deve conter os valores de "nomes dos(as) autores(as)".
+  3. A segunda cluna do arquivo .CSV deve conter os valores de "títulos de apresentação".  
 
 Bom uso!
